@@ -35,3 +35,17 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Groovy ###
+user.gradle
+.gradle/
+target/
+
+*.DS_Store
+*.class
+*.swp
+*~
+.shelf
+
+.settings/
+.jqwik-database
